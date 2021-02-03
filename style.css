@@ -1,0 +1,32 @@
+body {background-color: antiquewhite; flex-direction: column;
+}
+
+header {text-align: center;background-color: aquamarine;padding: 2%;}
+
+.title {color: blueviolet; text-align: center; flex-direction: row;}
+
+.category-title {text-align: center; margin-left: 100px; margin-right: 300px; padding: 20px;}
+
+.line {background-color: blue;color: blue;}
+
+.image {background-color: blue;position: absolute;
+    top: 35vh;
+    right: 8vw;
+    padding: 30px;
+}
+
+.image-2 {background-color: blue;position: absolute;
+    top: 64vh;
+    right: 5vw;
+    padding: 30px;
+}
+
+.category-side-title {position:absolute;
+    top: 48%;
+    right: 2%;
+    width: 171px;
+}
+
+.category-side {flex-direction: row; padding: 30px;}
+
+footer {background-color: aqua;text-align: center;padding: .5%;}
